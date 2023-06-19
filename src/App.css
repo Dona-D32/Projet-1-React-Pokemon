@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(to right, #ffcc00, #ff6699, #33ccff); 
+  margin: 0 auto;
+  padding: 3em;
+  text-align: center;
+  color: white; 
+}
+
